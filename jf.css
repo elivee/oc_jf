@@ -18,8 +18,8 @@ border-radius:9px;
 .form{
   border-radius:9px;
 }
-.language-selector-button[_ngcontent-ssj-c174]{
- display:none;
+.language-selector{
+ display:none !important;
 }
 
 .mat-form-field-appearance-fill .mat-form-field-flex {
