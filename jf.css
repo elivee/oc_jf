@@ -16,3 +16,6 @@ background-image: linear-gradient(90deg,#1e4278 0%,rgba(30,66,120,0.1) 100%),url
 .event-name{
  display:none;
 }
+.form[_ngcontent-mxp-c194] {
+  border-radius:8px;
+}
