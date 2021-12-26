@@ -13,3 +13,6 @@ background-image: linear-gradient(90deg,#1e4278 0%,rgba(30,66,120,0.1) 100%),url
 .details[_ngcontent-jgx-c194]{
  border-radius:8px; 
 }
+.event-name{
+ display:none;
+}
