@@ -1,5 +1,7 @@
-.main{
+main{
 background-image: radial-gradient(circle at top left,rgba(0,79,140,0.34) 0%,rgba(0,56,94,0.75) 50%)!important;
+}
+.main{
 border-radius:9px;
 }
 .ng-star-inserted .main {
@@ -7,6 +9,7 @@ border-radius:9px;
  border-radius:8px;
 }
 .details{
+ background-image: linear-gradient(180deg,rgba(12,113,195,0.15) 0%,#ffffff 70%)!important;
  border-radius:9px; 
 }
 .event-name{
@@ -18,4 +21,8 @@ border-radius:9px;
 }
 .language-selector-button{
  display:none;
+}
+
+.mat-form-field-appearance-fill .mat-form-field-flex {
+    background-color: white;
 }
