@@ -7,7 +7,9 @@ background-image: radial-gradient(circle at top left,rgba(0,79,140,0.34) 0%,rgba
 div.et_pb_section.et_pb_section_2 {
 background-image: linear-gradient(90deg,#1e4278 0%,rgba(30,66,120,0.1) 100%),url(https://events.ourcrowd.com/wp-content/uploads/2021/12/funeral-home-image-34.jpg)!important;
 }
-
+.main[_ngcontent-tai-c193]{
+  border-radius:8px; 
+}
 .details[_ngcontent-jgx-c194]{
  border-radius:8px; 
 }
