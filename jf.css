@@ -12,8 +12,10 @@ background-color: unset !important;
  object-fit: contain !important;
 }
 .cover-image{
- height: calc(15.5vw - 1rem) !important;
- background-color: unset !important;
+width: 100% !important;
+height: fit-content !important;
+margin-left: 0 !important;
+background-color: unset !important;
 }
 #main{
 background-image: radial-gradient(circle at top left,rgba(0,79,140,0.34) 0%,rgba(0,56,94,0.75) 50%)!important;
