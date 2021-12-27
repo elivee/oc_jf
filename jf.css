@@ -8,7 +8,7 @@ background-color: unset !important;
 .bt-rich-text b{
 background-color: unset !important;
 }
-.ImgResponsive.cover[_ngcontent-yyy-c171]{
+.ImgResponsive.cover{
  object-fit: contain !important;
 }
 .cover-image{
