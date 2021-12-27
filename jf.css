@@ -12,6 +12,7 @@ background-color: unset !important;
  object-fit: contain !important;
 }
 .cover-image{
+ height: unset !important;
  background-color: unset !important;
 }
 #main{
