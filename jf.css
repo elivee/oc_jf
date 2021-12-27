@@ -12,7 +12,7 @@ background-color: unset !important;
  object-fit: contain !important;
 }
 .cover-image{
- height: unset !important;
+ height: calc(12.5vw - 1rem) !important;
  background-color: unset !important;
 }
 #main{
