@@ -9,7 +9,7 @@ background-color: unset !important;
 background-color: unset !important;
 }
 .ImgResponsive.cover[_ngcontent-yyy-c171]{
- object-fit: contain;
+ object-fit: contain !important;
 }
 .cover-image{
  background-color: unset !important;
