@@ -8,13 +8,9 @@ background-color: unset !important;
 .bt-rich-text b{
 background-color: unset !important;
 }
-.ImgResponsive.cover{
- object-fit: contain !important;
-}
+
 .cover-image{
-width: 100% !important;
-height: fit-content !important;
-margin-left: 0 !important;
+
 background-color: unset !important;
 }
 #main{
