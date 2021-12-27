@@ -8,9 +8,11 @@ background-color: unset !important;
 .bt-rich-text b{
 background-color: unset !important;
 }
-
+.ImgResponsive.cover[_ngcontent-yyy-c171]{
+ object-fit: contain;
+}
 .cover-image{
- background-color:none !important;
+ background-color: unset !important;
 }
 #main{
 background-image: radial-gradient(circle at top left,rgba(0,79,140,0.34) 0%,rgba(0,56,94,0.75) 50%)!important;
