@@ -1,9 +1,6 @@
 .main{
 background-image: radial-gradient(circle at top left,rgba(0,79,140,0.34) 0%,rgba(0,56,94,0.75) 50%)!important;
 }
-.event-start-end-date{
- display:none !important; 
-}
 .main.ng-star-inserted{
  background-image: none !important;
 }
