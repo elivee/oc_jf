@@ -3,27 +3,27 @@
 }
 
 .section-wrapper{
-  min-height: 100vh; 
+  min-height: 100vh !important; 
 }
 
 
 
 .headline{
- text-align:center; 
-  color:rgb(15 76 129);
+ text-align:center !important;  
+  color:rgb(15 76 129) !important; 
 }
 
 .register-button{
-    font-size: 2.125rem; 
-    display: block;
+    font-size: 2.125rem !important; 
+    display: block !important; 
     margin-left: auto !important;
     margin-right:auto !important;
 }
 
 .section-content{
-    min-height: 100vh; 
+    min-height: 100vh !important;
 }
 
 .hero-image{
- display:none; 
+ display:none !important;
 }
