@@ -44,3 +44,17 @@
 .mat-form-field{
  font-size: 2em !important; 
 }
+.card-content{
+ background-color: unset !important;
+      box-shadow: unset !important;
+}
+.ImgResponsive.cover{
+  width:unset !important;
+  height:unset !important;
+      margin-left: auto !important;
+    margin-right: auto !important;
+    display: block !important;
+      margin-top: 30% !important;
+}
+
+
