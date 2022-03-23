@@ -11,6 +11,8 @@
 .headline{
  text-align:center !important;  
   color:rgb(15 76 129) !important; 
+  font-family: inherit !important;
+  font-size: 3rem;
 }
 
 .register-button{
