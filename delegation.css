@@ -12,7 +12,7 @@
  text-align:center !important;  
   color:rgb(15 76 129) !important; 
   font-family: inherit !important;
-  font-size: 3rem;
+  font-size: 2rem !important;
 }
 
 .register-button{
@@ -51,7 +51,7 @@
       box-shadow: unset !important;
 }
 .ImgResponsive.cover{
-  width:unset !important;
+  width:100% !important;
    height:unset !important;
       margin-left: auto !important;
     margin-right: auto !important;
