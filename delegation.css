@@ -50,7 +50,7 @@
 }
 .ImgResponsive.cover{
   width:unset !important;
-  height:unset !important;
+   height:unset !important;
       margin-left: auto !important;
     margin-right: auto !important;
     display: block !important;
