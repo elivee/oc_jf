@@ -34,17 +34,17 @@
 }
 
 .mat-raised-button{
- font-size: 2em !important;
+ font-size: 1.5em !important;
  padding: 20px !important;
 }
 
 .title{
- font-size: 3rem !important; 
-      margin-bottom: 10px !important;
+ font-size: 1.5rem !important; 
+    
 }
 
 .mat-form-field{
- font-size: 2em !important; 
+ font-size: 1.5em !important; 
 }
 .card-content{
  background-color: unset !important;
