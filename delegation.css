@@ -61,4 +61,10 @@
 .back-button{
  display:none !important; 
 }
+.event-details{
+text-align:center !important;
+}
 
+.event-date{
+  color: rgb(76 76 76) !important;
+}
