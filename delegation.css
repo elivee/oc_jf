@@ -58,5 +58,7 @@
     display: block !important;
       margin-top: 30% !important;
 }
-
+.back-button{
+ display:none !important; 
+}
 
