@@ -4,3 +4,10 @@ background-image: radial-gradient(circle at top left,rgba(0,79,140,0.34) 0%,rgba
 .main.ng-star-inserted{
  background-image: none !important;
 }
+.cover-image{
+     display: none !important;
+}
+
+bt-start-end-date{
+    display: none !important;
+}
