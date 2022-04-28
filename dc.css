@@ -11,6 +11,9 @@ background-image: radial-gradient(circle at top left,rgba(0,79,140,0.34) 0%,rgba
 bt-start-end-date{
     display: none !important;
 }
-.title{
+.title[_ngcontent-exq-c194]{
  display: none !important;
+}
+.question .title{
+ display: flex !important;
 }
