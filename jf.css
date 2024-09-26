@@ -1,11 +1,18 @@
 .event-start-end-date{
- display:none; 
+ display:none !important; 
 }
 
 .bt-rich-text span{
 background-color: unset !important;
 }
-
+.ImgResponsive.cover[_ngcontent-vjo-c171] {
+    object-fit: contain !important;
+    font-family: "object-fit: cover;";
+}
+.cover-image{
+ height: unset !important;
+ background-color:none !important;
+}
 #main{
 background-image: radial-gradient(circle at top left,rgba(0,79,140,0.34) 0%,rgba(0,56,94,0.75) 50%)!important;
 }
