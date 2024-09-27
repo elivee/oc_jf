@@ -3,27 +3,58 @@
 }
 
 .section-wrapper{
-  min-height: 100vh; 
+  min-height: 100vh !important; 
 }
 
 
 
 .headline{
- text-align:center; 
-  color:rgb(15 76 129);
+ text-align:center !important;  
+  color:rgb(15 76 129) !important; 
 }
 
 .register-button{
-    font-size: 2.125rem; 
-    display: block;
+    font-size: 2.125rem !important; 
+    display: block !important; 
     margin-left: auto !important;
     margin-right:auto !important;
 }
 
 .section-content{
-    min-height: 100vh; 
+    min-height: 100vh !important;
 }
 
 .hero-image{
- display:none; 
+ display:none !important;
 }
+.register-modal{
+  max-width:80% !important;
+}
+
+.mat-raised-button{
+ font-size: 2em !important;
+ padding: 20px !important;
+}
+
+.title{
+ font-size: 2rem !important; 
+      margin-bottom: 10px !important;
+}
+
+.mat-form-field{
+ font-size: 2em !important; 
+}
+.card-content{
+ background-color: unset !important;
+      box-shadow: unset !important;
+}
+.ImgResponsive.cover{
+  width:unset !important;
+  height:unset !important;
+      margin-left: auto !important;
+    margin-right: auto !important;
+    display: block !important;
+      margin-top: 30% !important;
+}
+
+
